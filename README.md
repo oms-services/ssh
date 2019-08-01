@@ -1,8 +1,8 @@
 # _SSH_ OMG Microservice
 
 [![Open Microservice Guide](https://img.shields.io/badge/OMG%20Enabled-👍-green.svg?)](https://microservice.guide)
-[![Build Status](https://travis-ci.com/heaptracetechnology/microservice-ssh.svg?branch=master)](https://travis-ci.com/heaptracetechnology/microservice-ssh)
-[![codecov](https://codecov.io/gh/heaptracetechnology/microservice-ssh/branch/master/graph/badge.svg)](https://codecov.io/gh/heaptracetechnology/microservice-ssh)
+[![Build Status](https://travis-ci.com/omg-services/ssh.svg?branch=master)](https://travis-ci.com/omg-services/ssh)
+[![codecov](https://codecov.io/gh/omg-services/ssh/branch/master/graph/badge.svg)](https://codecov.io/gh/omg-services/ssh)
 
 An OMG service for SSH, it  is a cryptographic network protocol for operating network services securely over an unsecured network.
 
@@ -27,7 +27,7 @@ $ omg run exec -a command=<COMMAND> -a username=<SERVER_USERNAME> -a password=<S
 **Note**: The OMG CLI requires [Docker](https://docs.docker.com/install/) to be installed.
 
 ## License
-[MIT License](https://github.com/omg-services/awesome/blob/master/LICENSE).
+[MIT License](https://github.com/omg-services/ssh/blob/master/LICENSE).
 
 
 
